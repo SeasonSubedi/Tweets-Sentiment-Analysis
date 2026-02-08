@@ -47,6 +47,3 @@ You can download the saved model from the link below:
 (https://drive.google.com/drive/folders/14r9sHhEINPJ1gvZXsMAWEYALVAtk3jbp?usp=drive_link)
 
 ---
-
-git clone https://github.com/username/repository-name.git
-cd repository-name
